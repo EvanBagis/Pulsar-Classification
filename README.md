@@ -1,4 +1,4 @@
-![Alt Text]()
+![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/pulsar.jpg)
 
 # Pulsar-Classification
 
