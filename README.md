@@ -16,10 +16,21 @@ etc
 
 ## Results
 
+Scatter plots
+![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_4_2.png)
 
-Scatter plots             |  Confusion heatmap
+Confusion heatmap
+![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_5_1.png)
+
+Balancing the dataset
+![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_6_1.png)   |  ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_7_1.png)
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+gregergeargrgergaeraga  |  rhseryagaregraege
+
+Validation scores
+![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_11_0.png)   |  ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_12_0.png)
+:-------------------------:|:-------------------------:
+gregergeargrgergaeraga  |  rhseryagaregraege
 
 
 
