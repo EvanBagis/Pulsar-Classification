@@ -23,16 +23,18 @@ Confusion heatmap
 ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_5_1.png)
 
 Balancing the dataset
-![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_6_1.png)   |  ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_7_1.png)
+![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_6_1.png)   |  ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/utput_7_1.png)
 :-------------------------:|:-------------------------:
-gregergeargrgergaeraga  |  rhseryagaregraege
+Imbalanced  |  Balanced
 
 Validation scores
 ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_11_0.png)   |  ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_12_0.png)
 :-------------------------:|:-------------------------:
-gregergeargrgergaeraga  |  rhseryagaregraege
+Loss  |  Accuracy
 
-
+![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_8_0.png)    |  ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_9_0.png)
+:-------------------------:|:-------------------------:
+Imbalanced  |  Balanced
 
 ## Contributing
 
