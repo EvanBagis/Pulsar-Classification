@@ -19,7 +19,8 @@ etc
 Scatter plots
 ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_4_2.png)
 
-Confusion heatmap
+Correlation heatmap
+
 ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_5_1.png)
 
 Balancing the dataset
@@ -32,6 +33,7 @@ Validation scores
 :-------------------------:|:-------------------------:
 Loss  |  Accuracy
 
+Confusion matrix
 ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_8_0.png)    |  ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_9_0.png)
 :-------------------------:|:-------------------------:
 Imbalanced  |  Balanced
