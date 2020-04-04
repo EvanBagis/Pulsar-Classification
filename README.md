@@ -21,7 +21,7 @@ Scatter plots
 
 Correlation heatmap
 
-![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_5_1.png)
+![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_5_1.png) | Analysis
 
 Balancing the dataset
 ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/output_6_1.png)   |  ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/utput_7_1.png)
