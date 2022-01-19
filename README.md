@@ -2,7 +2,7 @@
 ![](https://github.com/EvanBagis/Pulsar-Classification/blob/master/pulsar.jpg)
 
 
-In this jupyter notebook, the open dataset [predicting a pulsar star](https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star) is used for data analysis and for building a neural network classifier. Core concepts of the analysis are demonstrated with the help of graphs and heatmaps. The model is validated via validation accuracy, validation loss and the confusion matrix. Furthermore, the concept of imbalanced classes is taken into account by building two different neural networks and comparing the results. 
+In this jupyter notebook, the open dataset [predicting a pulsar star](https://www.kaggle.com/colearninglounge/predicting-pulsar-starintermediate) is used for data analysis and for building a neural network classifier. Core concepts of the analysis are demonstrated with the help of graphs and heatmaps. The model is validated via validation accuracy, validation loss and the confusion matrix. Furthermore, the concept of imbalanced classes is taken into account by building two different neural networks and comparing the results. 
 
 ## Install libraries
 
